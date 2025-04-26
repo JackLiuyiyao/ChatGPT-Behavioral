@@ -14,3 +14,10 @@ It was developed as part of academic research and contributed to a paper submiss
 - NumPy (numerical computing)
 - Matplotlib / Seaborn (visualization)
 - Jupyter Notebook (for exploratory analysis)
+
+## 📂 Key Files and Directories
+- `run-openai.ipynb`: **Main framework and core experiments notebook.**
+- `/data/`: Raw and processed datasets used for experiments.
+- `/figures/`: Generated visualizations comparing AI and human behavior.
+- `requirements.txt`: Python dependencies to reproduce the analysis.
+- `README.md`: Project overview and instructions.
